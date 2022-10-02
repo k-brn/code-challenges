@@ -21,7 +21,7 @@ if bmi > 30 return "Obese"
 // SOLUTION
 
 function bmi(weight, height) {
-    // weight in kilograms divided by height in meters squared
+    // weight in kilograms divided by height in meters squared 
     let bodyMassIndex = (weight / (height * height))
 
     if (bodyMassIndex <= 18.5){
