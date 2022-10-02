@@ -20,7 +20,7 @@ Assume that beast and dish are always lowercase strings, and that each has at le
 
 and dish may contain hyphens and spaces, but these will not appear at the beginning or end of the 
 
-string. They will not contain numerals.
+string. They will not contain numerals. 
 
 */
 
