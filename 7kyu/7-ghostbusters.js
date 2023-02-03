@@ -20,7 +20,7 @@ Should return:
 "Skyscraper"
 If the building contains no ghosts, return the string:
 
-"You just wanted my autograph didn't you?"
+"You just wanted my autograph didn't you?" 
 
 */
 
